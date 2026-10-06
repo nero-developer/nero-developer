@@ -2,9 +2,9 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&color=6B7280&size=26&center=true&vCenter=true&width=800&lines=Ol%C3%A1%2C+eu+sou+o+nero-developer;Desenvolvedor;Bem-vindo+ao+meu+GitHub)](https://github.com/nero-developer)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&color=6B7280&size=26&center=true&vCenter=true&width=800&lines=Ol%C3%A1%2C+eu+sou+o+nero;Desenvolvedor+High-Level;Bem-vindo+ao+meu+GitHub)](https://github.com/nero-developer)
 
-![Profile Views](https://komarev.com/ghpvc/?username=nero-developer&color=9CA3AF&label=VISITAS&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=Nero&color=9CA3AF&label=VISITAS&style=flat-square)
 
 </div>
 
